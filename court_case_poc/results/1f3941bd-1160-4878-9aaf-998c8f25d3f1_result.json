@@ -1,0 +1,496 @@
+{
+  "search_id": "1f3941bd-1160-4878-9aaf-998c8f25d3f1",
+  "provider": "eCourts Services",
+  "status": "CASES_FOUND",
+  "search_criteria": {
+    "search_source": "ECOURTS",
+    "search_type": "PARTY_NAME",
+    "party_name": "Ramesh Kumar",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "court_complex": "City Civil Court Complex",
+    "registration_year": "2023",
+    "case_status": "BOTH"
+  },
+  "cases": [
+    {
+      "case_number": "EP/4905/2023",
+      "party_names": "Udaychand (deceased)VsRamesh kumar",
+      "cnr_number": "TNCH010346552023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/4607/2023",
+      "party_names": "Dnc Chits Private LimitedVsT Ramesh Kumar",
+      "cnr_number": "TNCH010427732023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/4605/2023",
+      "party_names": "Dnc Chits Private LimitedVsT Ramesh Kumar",
+      "cnr_number": "TNCH010427722023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/4410/2023",
+      "party_names": "SBI CARDS AND PAYMENT SERVICES LIMITEDVsJ.RAMESH KUMAR",
+      "cnr_number": "TNCH010399432023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/2306/2023",
+      "party_names": "SBI Cards and Payment Services Limited Rep. by its Legal ManagerVsRamesh Kumar",
+      "cnr_number": "TNCH010233532023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1337/2023",
+      "party_names": "Bajaj Finance LtdVsRamesh Kumar and Co",
+      "cnr_number": "TNCH010106872023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1207/2023",
+      "party_names": "Ramesh KumarVsS.Radhakrishnan",
+      "cnr_number": "TNCH010102662023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/7006/2023",
+      "party_names": "A.M.Ramesh KumarVsThe Manager Recoveries, Credit Card Division, Axis Bank",
+      "cnr_number": "TNCH010491542023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/7005/2023",
+      "party_names": "A.M.Ramesh KumarVsThe Manager Recoveries, Credit Card Division, HDFC Bank",
+      "cnr_number": "TNCH010491492023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6888/2023",
+      "party_names": "A.M. Ramesh KumarVsThe Manager, Credit Card Division, State Bank of India,",
+      "cnr_number": "TNCH010491562023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6719/2023",
+      "party_names": "A.M.Ramesh KumarVsThe Manager-Recoveries, App Based Loan Division, CASHEE",
+      "cnr_number": "TNCH010475192023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6525/2023",
+      "party_names": "Ramesh KumarVsState Bank of India",
+      "cnr_number": "TNCH010440682023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6117/2023",
+      "party_names": "J.Ramesh KumarVsS. Sasikala",
+      "cnr_number": "TNCH010397262023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5234/2023",
+      "party_names": "Ramesh Kumar JainVsDilip Thacker",
+      "cnr_number": "TNCH010330792023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4537/2023",
+      "party_names": "P.Ramesh KumarVsSantosh Finance",
+      "cnr_number": "TNCH010284222023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3355/2023",
+      "party_names": "Rekha R LukedVsRamesh Kumar",
+      "cnr_number": "TNCH010131352023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2892/2023",
+      "party_names": "ICICI Bank LtdVsA.Ramesh Kumar",
+      "cnr_number": "TNCH010150852023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2270/2023",
+      "party_names": "Harikishan BhattadVsRamesh Kumar Bhattad",
+      "cnr_number": "TNCH010109572023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2165/2023",
+      "party_names": "HDFC Bank LtdVsSubashchandran Ramesh Kumar",
+      "cnr_number": "TNCH010064002023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1339/2023",
+      "party_names": "LathaVsRamesh Kumar",
+      "cnr_number": "TNCH010061722023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/106/2023",
+      "party_names": "Ramesh Kumar MehtaVsRajesh and Co",
+      "cnr_number": "TNCH010540022022",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29054/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010465192023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27517/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010439832023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25384/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010410522023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24347/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010395712023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24244/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010394282023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22780/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010376182023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19643/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010326382023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15623/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010264522023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15621/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010264502023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15620/2023",
+      "party_names": "Ramesh kumarVs",
+      "cnr_number": "TNCH010264492023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4078/2023",
+      "party_names": "Ramesh KumarVs",
+      "cnr_number": "TNCH010076062023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/305/2023",
+      "party_names": "K.Ramesh Kumar",
+      "cnr_number": "TNCH010075002019",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/8/2023",
+      "party_names": "Shri.Ramesh Kumar Kochar",
+      "cnr_number": "TNCH010205132023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/2734/2023",
+      "party_names": "Joel Ramesh Kumar",
+      "cnr_number": "TNCH010274502023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/2313/2023",
+      "party_names": "L. Ramesh Kumar",
+      "cnr_number": "TNCH010235822023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1984/2023",
+      "party_names": "Ramesh Kumar Kaliyappan",
+      "cnr_number": "TNCH010204632023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1275/2023",
+      "party_names": "S. Ramesh Kumar",
+      "cnr_number": "TNCH010107492023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/612/2023",
+      "party_names": "Ramesh Kumar",
+      "cnr_number": "TNCH010031282023",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6741/2023",
+      "party_names": "Ramesh Kumar",
+      "cnr_number": "TNCH010459712023",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6211/2023",
+      "party_names": "S. Pramesh Kumar",
+      "cnr_number": "TNCH010425192023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6201/2023",
+      "party_names": "G. Ramesh Kumar",
+      "cnr_number": "TNCH010410682023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5562/2023",
+      "party_names": "Ramesh Kumar Nimani",
+      "cnr_number": "TNCH010369642023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4477/2023",
+      "party_names": "S.Ramesh Kumar",
+      "cnr_number": "TNCH010263022023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2383/2023",
+      "party_names": "J.Ramesh kumar khatod",
+      "cnr_number": "TNCH010107962023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2383/2023",
+      "party_names": "Ramesh kumar bafna",
+      "cnr_number": "TNCH010107962023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/551/2023",
+      "party_names": "S.Ramesh Kumar",
+      "cnr_number": "TNCH010516312022",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10843/2023",
+      "party_names": "Ramesh Kumar",
+      "cnr_number": "TNCH010192102023",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11570/2023",
+      "party_names": "Ramesh Kumar KocharVs",
+      "cnr_number": "TNCH020116382023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10894/2023",
+      "party_names": "Ramesh Kumar KocharVs",
+      "cnr_number": "TNCH020109572023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10276/2023",
+      "party_names": "Ramesh Kumar KocharVs",
+      "cnr_number": "TNCH020103322023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9714/2023",
+      "party_names": "Ramesh Kumar KocharVs",
+      "cnr_number": "TNCH020097682023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SPLCC/6/2023",
+      "party_names": "Ramesh Kumar Kochar",
+      "cnr_number": "TNCH020076252023",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    }
+  ],
+  "summary": "Matching case records were found using the selected search criteria.",
+  "disclaimer": "Name-based matches may refer to different individuals. Independent legal verification is recommended."
+}

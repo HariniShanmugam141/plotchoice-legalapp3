@@ -1,0 +1,25 @@
+{
+  "search_id": "81555b04-9daf-4517-96ec-f6537a496519",
+  "provider": "eCourts Services",
+  "status": "CASES_FOUND",
+  "search_criteria": {
+    "search_source": "ECOURTS",
+    "search_type": "CNR_NUMBER",
+    "cnr_number": "TNCH010428972024"
+  },
+  "cases": [
+    {
+      "case_number": "329/2024",
+      "party_names": "Unknown Vs Unknown",
+      "next_hearing_date": "18th September 2026",
+      "case_stage": "Enquiry",
+      "court": "65-X Additional Judge",
+      "match": {
+        "match_type": "POSSIBLE_MATCH",
+        "confidence": "LOW"
+      }
+    }
+  ],
+  "summary": "Matching case records were found using the selected search criteria.",
+  "disclaimer": "Name-based matches may refer to different individuals. Independent legal verification is recommended."
+}

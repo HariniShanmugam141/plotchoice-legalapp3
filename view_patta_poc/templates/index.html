@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>PlotChoice — View Patta</title>
+<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+<div class="wrap">
+  <div style="background: #eef; padding: 15px; border-radius: 4px; border: 1px solid #ccd; margin-bottom: 20px;">
+    <h3 style="margin-top: 0;">Upload Sale Deed</h3>
+    <div style="display: flex; gap: 10px; align-items: center;">
+      <input type="file" id="deedFile" accept=".pdf" style="flex: 1;">
+      <button type="button" id="processDeedBtn">Process Document</button>
+    </div>
+    <p id="deedStatus" style="font-size: 0.9em; margin-top: 10px; font-weight: bold;"></p>
+  </div>
+
+  <form id="patta-form">
+    
+    <div id="extraction-fields" style="display: none;">
+      <label>Area Type
+        <select name="area_type" id="area-select">
+          <option value="Rural">Rural / Natham</option>
+          <option value="Urban">Urban (TSLR)</option>
+        </select>
+      </label>
+      <label>District
+        <input type="text" name="district" id="district-input" placeholder="e.g. Tiruvannamalai">
+      </label>
+      <label>Taluk
+        <input type="text" name="taluk" id="taluk-input" placeholder="e.g. Vandavasi">
+      </label>
+      <label>Village / Town
+        <input type="text" name="village" id="village-input" placeholder="village name">
+      </label>
+      
+      <div id="urban-group" style="display: none;">
+        <label>Ward
+          <input type="text" name="ward" id="ward-input" placeholder="e.g. A">
+        </label>
+        <label>Block
+          <input type="text" name="block" id="block-input" placeholder="e.g. 15">
+        </label>
+      </div>
+      
+      <div style="margin-bottom: 15px;">
+        <strong>Search Type:</strong><br>
+        <label style="display:inline-block; margin-right: 15px; font-weight: normal;">
+          <input type="radio" name="search_type" value="sur" checked> Survey Number
+        </label>
+        <label style="display:inline-block; font-weight: normal;">
+          <input type="radio" name="search_type" value="pt"> Patta Number
+        </label>
+      </div>
+
+      <div id="survey-group">
+        <label>Survey Number
+          <input type="text" name="survey_no" id="survey-input" placeholder="e.g. 24">
+        </label>
+        <label>Subdivision Number
+          <input type="text" name="sub_division" id="subdiv-input" placeholder="e.g. 2 (leave blank if none)">
+        </label>
+      </div>
+
+      <div id="patta-group" style="display: none;">
+        <label>Patta Number
+          <input type="text" name="patta_no" id="patta-input" placeholder="e.g. 1185">
+        </label>
+      </div>
+    </div>
+    
+    <label>Mobile Number (for OTP)
+      <input type="text" name="mobile_no" placeholder="10 digit mobile number" required>
+    </label>
+
+    <button type="submit" id="search-btn">Search Patta</button>
+  </form>
+
+  <div id="status" class="status"></div>
+
+  <!-- OTP SECTION -->
+  <div id="otp-section" style="display: none; margin-top: 20px; padding: 15px; border: 1px solid #cce5ff; background-color: #e6f2ff; border-radius: 5px;">
+    <h3>Enter OTP</h3>
+    <p>An OTP has been sent to your mobile number. Please enter it below.</p>
+    <div style="margin-bottom: 10px;">
+       <span id="otp-timer" style="font-weight: bold; color: red;">02:00</span>
+    </div>
+    <input type="text" id="otp-input" placeholder="6 digit OTP" style="padding: 8px; width: 200px;">
+    <button type="button" id="submit-otp-btn" style="padding: 8px 15px; background-color: #19692c; color: white; border: none; border-radius: 4px; cursor: pointer;">Submit OTP</button>
+    <button type="button" id="resend-otp-btn" style="display: none; padding: 8px 15px; background-color: #0056b3; color: white; border: none; border-radius: 4px; cursor: pointer; margin-left: 10px;">Resend OTP</button>
+    <p id="otp-msg" style="color: red; font-size: 0.9em; margin-top: 10px;"></p>
+  </div>
+
+  <div id="result-section" class="hidden">
+    <h2>Result</h2>
+    <img id="result-image" style="width: 100%; border: 1px solid #ccc; display: none; border-radius: 4px;" />
+    <pre id="result-text" style="display: none;"></pre>
+  </div>
+</div>
+
+<script src="static/app.js"></script>
+</body>
+</html>

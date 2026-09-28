@@ -1,0 +1,226 @@
+* { box-sizing: border-box; font-family: 'Segoe UI', Arial, Helvetica, sans-serif; }
+body { background: #dde4ec; margin: 0; padding: 40px 20px; }
+.wrap { max-width: 1200px; margin: 0 auto; }
+
+/* ── Cards ──────────────────────────────────────────── */
+.card {
+    background: #fff;
+    padding: 35px 40px;
+    border-radius: 10px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.09);
+    margin-bottom: 24px;
+}
+
+/* ── Typography ─────────────────────────────────────── */
+h1 { font-size: 32px; margin-bottom: 12px; color: #1a1a1a; font-weight: 700; }
+h2 { font-size: 22px; margin-top: 0; color: #222; border-bottom: 2px solid #e8e8e8; padding-bottom: 12px; margin-bottom: 20px; font-weight: 600; }
+p  { font-size: 16px; color: #444; line-height: 1.6; }
+
+/* ── Form labels ────────────────────────────────────── */
+label { display: block; margin-bottom: 6px; font-size: 15px; color: #333; font-weight: 600; }
+
+/* ── Inputs ─────────────────────────────────────────── */
+input[type="text"],
+input[type="file"],
+input[type="date"] {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1.5px solid #bbb;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #222;
+    background: #fafafa;
+    transition: border-color 0.2s;
+}
+input[type="text"]:focus,
+input[type="date"]:focus { border-color: #1a5c38; outline: none; background: #fff; }
+
+/* ── Checkbox task row ──────────────────────────────── */
+.task-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 28px;
+    margin-top: 14px;
+    align-items: center;
+}
+.task-row label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #222;
+    cursor: pointer;
+}
+.task-row input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    accent-color: #1a5c38;
+    cursor: pointer;
+}
+
+/* ── Buttons ─────────────────────────────────────────── */
+button {
+    background: #1a5c38;
+    color: #fff;
+    border: none;
+    padding: 14px 32px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    transition: background 0.2s, opacity 0.2s;
+}
+button:hover  { background: #154d2f; }
+button:active { opacity: 0.85; }
+button:disabled { background: #aaa; cursor: not-allowed; }
+
+/* ── Live status text ───────────────────────────────── */
+#live-status {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    min-height: 26px;
+}
+
+/* ── Interaction block (OTP / captcha) ──────────────── */
+#interaction-block {
+    margin-top: 20px;
+    padding: 22px 24px;
+    background: #f5f9f6;
+    border-radius: 8px;
+    border: 1.5px dashed #1a5c38;
+}
+#interaction-msg { margin-top: 0; font-size: 17px; font-weight: 700; color: #1a5c38; }
+#interaction-input, #interaction-input-2 {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1.5px solid #bbb;
+    border-radius: 6px;
+    font-size: 16px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+
+/* ── Task name highlight ────────────────────────────── */
+#current-task-name { color: #1a5c38; }
+
+/* ── Error text ─────────────────────────────────────── */
+.error-text { color: #c0392b; font-size: 15px; font-weight: 600; }
+
+/* ── Utilities ───────────────────────────────────────── */
+.hidden { display: none !important; }
+.status { margin-top: 10px; font-size: 15px; color: #666; font-weight: bold; }
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+
+/* ── Download buttons ───────────────────────────────── */
+.download-btn {
+    display: inline-block;
+    background: #0275d8;
+    color: white;
+    text-decoration: none;
+    padding: 13px 22px;
+    border-radius: 6px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-weight: 700;
+    transition: background 0.2s;
+}
+.download-btn:hover { background: #025aa5; }
+
+/* ── Select Tasks heading ───────────────────────────── */
+.tasks-heading {
+    font-size: 17px;
+    font-weight: 700;
+    color: #222;
+    margin-top: 20px;
+    margin-bottom: 4px;
+}
+
+/* ── Manual-entry form field groups ─────────────────── */
+.field-group {
+    margin-bottom: 18px;
+}
+.field-group label {
+    font-size: 15px;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 5px;
+}
+.req  { color: #c0392b; }
+.hint { font-size: 13px; font-weight: 400; color: #888; margin-left: 4px; }
+
+/* ── Upload / Manual toggle ─────────────────────────── */
+.mode-toggle-row {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 6px;
+    flex-wrap: wrap;
+}
+.mode-btn {
+    flex: 1;
+    min-width: 160px;
+    padding: 14px 20px;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #eef2f5;
+    color: #555;
+    border: 2px solid #ccc;
+    cursor: pointer;
+    transition: all 0.18s;
+}
+.mode-btn:hover  { border-color: #1a5c38; color: #1a5c38; background: #f0f7f3; }
+.mode-btn.active { background: #1a5c38; color: #fff; border-color: #1a5c38; }
+
+/* ── Upload file row (never hidden by JS) ───────────── */
+.upload-file-row {
+    margin-top: 18px;
+    padding: 20px;
+    background: #f5f9f6;
+    border: 2px dashed #1a5c38;
+    border-radius: 8px;
+}
+.upload-file-row input[type="file"] {
+    width: 100%;
+    font-size: 15px;
+    padding: 8px 0;
+}
+
+/* ── Cascading selects ───────────────────────────────── */
+.select-wrap {
+    position: relative;
+}
+.select-wrap select,
+select {
+    width: 100%;
+    padding: 13px 16px;
+    font-size: 16px;
+    border: 1.5px solid #ccc;
+    border-radius: 6px;
+    background: #fff;
+    color: #222;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24'%3E%3Cpath fill='%231a5c38' d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    background-size: 22px;
+    cursor: pointer;
+    transition: border-color 0.18s;
+}
+.select-wrap select:focus,
+select:focus { border-color: #1a5c38; outline: none; box-shadow: 0 0 0 3px rgba(26,92,56,0.12); }
+.select-wrap select:disabled,
+select:disabled { background-color: #f5f5f5; color: #aaa; cursor: not-allowed; }
+.sel-loading {
+    position: absolute;
+    right: 42px; top: 50%;
+    transform: translateY(-50%);
+    font-size: 13px;
+    color: #1a5c38;
+    font-weight: 600;
+    pointer-events: none;
+}

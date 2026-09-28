@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "search_id": "0b2d5f79-da9d-41ad-b55a-9ed82bf8f0d2",
+  "status": "FAILED",
+  "message": "Court search workflow failed while inspecting portal state: Court Complex 'City Civil Court, Chennai' not found in dropdown. Try a shorter keyword."
+}

@@ -1,0 +1,9 @@
+{
+  "search_id": "a6911625-4a1c-4f51-8313-b31f4cf3806f",
+  "received_at": "2026-09-09 00:37:07.023484",
+  "request": {
+    "search_source": "ECOURTS",
+    "search_type": "CNR_NUMBER",
+    "cnr_number": "TNCH010428972024"
+  }
+}

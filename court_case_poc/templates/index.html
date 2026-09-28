@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Court Case Search — PlotChoice POC</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/static/style.css?v=2">
+<style>
+    body {
+        margin: 0;
+        background: #f4f4f4;
+        display: flex;
+        justify-content: center;
+        padding: 40px 16px;
+    }
+    .card {
+        margin: 0 auto;
+    }
+</style>
+</head>
+<body>
+
+<div class="card">
+    <h1>Court Case — Search</h1>
+    <p class="subtitle">
+        Search available court case records by Party Name, CNR Number, or Court details.
+    </p>
+
+    <!-- STEP 1: Upload -->
+    <div id="uploadSection">
+        <label for="deed_file">1. Upload Document</label>
+        <input type="file" id="deed_file" accept=".pdf,image/*" style="margin-bottom:10px;">
+        <button id="extractBtn" type="button">Process Document</button>
+        <div id="extractStatus" class="status" style="margin-top:10px; font-weight:bold;"></div>
+    </div>
+
+    <!-- STEP 2: Main Form (Hidden initially) -->
+    <form id="courtSearchForm" style="display:none; margin-top: 20px; border-top: 2px solid #eee; padding-top: 20px;">
+        <p style="color: #116c35; font-weight: 600; margin-bottom: 15px;">✓ Extraction Complete. Please confirm details.</p>
+
+        <label for="searchSource" style="display: none;">Search Source</label>
+        <select id="searchSource" name="search_source" style="display: none;">
+            <option value="ECOURTS" selected>eCourts Services</option>
+            <option value="REVENUE_COURT">Revenue Court</option>
+        </select>
+
+        <label for="searchType" style="display: none;">Search Type</label>
+        <select id="searchType" name="search_type" style="display: none;">
+            <option value="PARTY_NAME" selected>Party Name</option>
+            <option value="CNR_NUMBER">CNR Number</option>
+        </select>
+
+        <!-- MODE 1: PARTY NAME -->
+        <div id="partyNameSection" class="dynamic-section">
+            <label for="party_name" style="display: none;">Party Name *</label>
+            <input type="text" id="party_name" name="party_name" placeholder="e.g. Rajesh Kumar" style="display: none;">
+
+            <label for="pn_state" style="display: none;">State</label>
+            <select id="pn_state" name="state" style="display: none;">
+                <option value="">Select State</option>
+            </select>
+
+            <label for="pn_district" style="display: none;">District</label>
+            <select id="pn_district" name="district" disabled style="display: none;">
+                <option value="">Select District</option>
+            </select>
+
+            <label for="pn_court_complex">Court Complex</label>
+            <select id="pn_court_complex" name="court_complex" disabled>
+                <option value="">Select Court Complex</option>
+            </select>
+
+            <label for="registration_year">Case Registration Year</label>
+            <select id="registration_year" name="registration_year">
+                <option value="">Select Year</option>
+                <script>
+                    const yearSelect = document.getElementById('registration_year');
+                    for(let y = 2024; y >= 1990; y--) {
+                        yearSelect.insertAdjacentHTML('beforeend', `<option value="${y}">${y}</option>`);
+                    }
+                </script>
+            </select>
+
+            <label for="case_status" style="display: none;">Case Status</label>
+            <select id="case_status" name="case_status" style="display: none;">
+                <option value="PENDING">Pending</option>
+                <option value="DISPOSED">Disposed</option>
+                <option value="BOTH" selected>Both</option>
+            </select>
+        </div>
+
+        <!-- MODE 2: CNR NUMBER -->
+        <div id="cnrSection" class="dynamic-section" style="display:none;">
+            <label for="cnr_number">CNR Number *</label>
+            <input type="text" id="cnr_number" name="cnr_number" placeholder="e.g. TNCH010012342024">
+            <p class="help-text">
+                Enter the complete CNR Number provided by the official court system.
+            </p>
+        </div>
+
+
+
+        <button type="submit" id="submitBtn">Search Court Records</button>
+    </form>
+
+    <!-- CAPTCHA panel, hidden until required -->
+    <div id="captchaPanel" style="display:none;">
+        <h3>Enter CAPTCHA</h3>
+        <img id="captchaImage" alt="CAPTCHA" />
+        <input type="text" id="captchaInput" placeholder="Enter CAPTCHA text">
+        <button id="submitCaptchaBtn" type="button">Submit CAPTCHA</button>
+    </div>
+
+    <div id="statusBox"></div>
+
+    <div id="resultBox"></div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>

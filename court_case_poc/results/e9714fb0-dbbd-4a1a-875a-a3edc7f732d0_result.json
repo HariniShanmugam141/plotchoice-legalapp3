@@ -1,0 +1,181 @@
+{
+  "search_id": "e9714fb0-dbbd-4a1a-875a-a3edc7f732d0",
+  "provider": "eCourts Services",
+  "status": "CASES_FOUND",
+  "search_criteria": {
+    "search_source": "ECOURTS",
+    "search_type": "PARTY_NAME",
+    "party_name": "Ramesh Kumar",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "court_complex": "City Civil Court Complex",
+    "registration_year": "2010",
+    "case_status": "BOTH"
+  },
+  "cases": [
+    {
+      "case_number": "EP/4179/2010",
+      "party_names": "N. Ramesh KumarVsS. Shanthi",
+      "cnr_number": "TNCH010140642010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/288/2010",
+      "party_names": "CR. Ramesh KumarVsSri Devi Cashews",
+      "cnr_number": "TNCH010133952010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/14657/2010",
+      "party_names": "Ramesh Kumar S.BhatVsMahalakshmi Enterprises",
+      "cnr_number": "TNCH010113632010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/11816/2010",
+      "party_names": "P. Ramesh KumarVsMrs. B. Shanthi",
+      "cnr_number": "TNCH010132002010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/11564/2010",
+      "party_names": "L.Ramesh kumarVsSuresh Distributors",
+      "cnr_number": "TNCH010092592010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/9797/2010",
+      "party_names": "S.Ramesh kumarVsK.Ramanaiah",
+      "cnr_number": "TNCH010082992010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5467/2010",
+      "party_names": "syndicate Bank, rep by its chief managerVsN.ramesh kumar",
+      "cnr_number": "TNCH010048872010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5450/2010",
+      "party_names": "N.Ramesh KumarVsCiti Bank, The Manager",
+      "cnr_number": "TNCH010047732010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2953/2010",
+      "party_names": "D.B.Ramesh kumar ChordiaVsSirajali. I. Currimhoy",
+      "cnr_number": "TNCH010024162010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2937/2010",
+      "party_names": "L.Ramesh kumarVsD.Rajaraman",
+      "cnr_number": "TNCH010023552010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2373/2010",
+      "party_names": "NithyalakshmiVsM.Ramesh Kumar",
+      "cnr_number": "TNCH010018372010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/303/2010",
+      "party_names": "Ramesh Kumar Shoraff",
+      "cnr_number": "TNCH010088012007",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/11118/2010",
+      "party_names": "M.Ramesh kumar",
+      "cnr_number": "TNCH010089402010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3851/2010",
+      "party_names": "G.Ramesh kumar",
+      "cnr_number": "TNCH010032402010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2292/2010",
+      "party_names": "U.Ramesh Kumar",
+      "cnr_number": "TNCH010017592010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2031/2010",
+      "party_names": "B.Ramesh kumar",
+      "cnr_number": "TNCH010015232010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1189/2010",
+      "party_names": "V.Komalavalli Thayaru @ V.Ramesh Kumari",
+      "cnr_number": "TNCH010007992010",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/310/2010",
+      "party_names": "S.Ramesh Kumar",
+      "cnr_number": "TNCH010139082009",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    }
+  ],
+  "summary": "Matching case records were found using the selected search criteria.",
+  "disclaimer": "Name-based matches may refer to different individuals. Independent legal verification is recommended."
+}

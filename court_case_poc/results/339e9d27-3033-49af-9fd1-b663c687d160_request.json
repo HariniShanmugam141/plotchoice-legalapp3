@@ -1,0 +1,14 @@
+{
+  "search_id": "339e9d27-3033-49af-9fd1-b663c687d160",
+  "received_at": "2026-09-09 00:18:59.171137",
+  "request": {
+    "search_source": "ECOURTS",
+    "search_type": "PARTY_NAME",
+    "party_name": "Ramesh ",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "court_complex": "City Civil Court Complex, Chennai",
+    "registration_year": "2024",
+    "case_status": "BOTH"
+  }
+}

@@ -1,0 +1,6531 @@
+{
+  "search_id": "2ced5c0a-1b0c-4e4a-a0cb-0dccfe378a68",
+  "provider": "eCourts Services",
+  "status": "CASES_FOUND",
+  "search_criteria": {
+    "search_source": "ECOURTS",
+    "search_type": "PARTY_NAME",
+    "party_name": "Ramesh ",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "court_complex": "City Civil Court Complex, Chennai",
+    "registration_year": "2024",
+    "case_status": "BOTH"
+  },
+  "cases": [
+    {
+      "case_number": "AS/329/2024",
+      "party_names": "T.G.RammohanVsM.V.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/299/2024",
+      "party_names": "Dilip ThackerVsRameshkumar Jain",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/199/2024",
+      "party_names": "A.AnandVsA Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/159/2024",
+      "party_names": "A.Aravind Power of Attorney M.RajasekaranVsRamesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/144/2024",
+      "party_names": "R.RameshVsK.Senthil Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/131/2024",
+      "party_names": "Arul PitchaiVsInstall Foundation Pvt Ltd Rep by its Ramesh Kumar Reddy",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/45/2024",
+      "party_names": "K.LoganathanVsLakshmi Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CMA/41/2024",
+      "party_names": "K.Arun RameshVsV.Ezhilkumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CMA/29/2024",
+      "party_names": "Sekar AnandVsM.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/1085/2024",
+      "party_names": "Punya Gold India Pvt Ltd rep by its DirectorVsKhandan Jewellers  Rep by its Partner Ramesh Kumar Golecha",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/985/2024",
+      "party_names": "AP BROILERS G ArulanandhamVsU Ramesh Krishnan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/978/2024",
+      "party_names": "MuthulakshmiVsRamesh Jesuprakash Paulson PGS",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/780/2024",
+      "party_names": "Ramesh KumarVsArjun Amaravathi Chit Pvt Ltd",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/652/2024",
+      "party_names": "Rohit Mahadev PatilVsSame Deutz fahr india private ltd.Rep by P.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/635/2024",
+      "party_names": "M. RameshVsM. Gananasekaran",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/530/2024",
+      "party_names": "Ramesh Alias PonnambalamVsThe Inspector Of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/479/2024",
+      "party_names": "V. RameshVsState By Inspector Of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/422/2024",
+      "party_names": "J.M.Ramesh Proprietor of Photo MaxVsR.Prathiba",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/366/2024",
+      "party_names": "P. RajVsC. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/333/2024",
+      "party_names": "D.RameshVsR.T. Ashalatha",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/331/2024",
+      "party_names": "K.DiwakarVsC.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/329/2024",
+      "party_names": "K.SolaiVsC.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/328/2024",
+      "party_names": "V.KumarVsC.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/211/2024",
+      "party_names": "MuthuVsRamesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1691/2024",
+      "party_names": "DHANALAKSHMI SRINIVASAN CHIT FUNDS PVT LTD REP BY ITS FOREMAN MR S SINGARAVELUVsR RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1664/2024",
+      "party_names": "B EkamabaramVsT. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1657/2024",
+      "party_names": "MR RAMESH KUMARVsMohamed Yaseen(deceased) Rep by his legal heirs 2nd Judgment Debtor",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1643/2024",
+      "party_names": "RameshVsRamadoss",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1640/2024",
+      "party_names": "Muthoot Pappachan Chits India Pvt LtdVsN Ramesh  and Others",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1638/2024",
+      "party_names": "Muthoot Pappachan Chits India Pvt LtdVsN Ramesh  and others",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1623/2024",
+      "party_names": "R PANNEERSELVAMVsANITHA RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1311/2024",
+      "party_names": "Shriram Chits India Pvt LtdVsR Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1271/2024",
+      "party_names": "Margadarsi Chits Private LimitedVsR Ramesh Purushothama Rao",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1255/2024",
+      "party_names": "Parameshwaran Proprietor Advaith ConsultancyVsThe Superintending Engineer",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1151/2024",
+      "party_names": "V JayakumarVsR Rameshram",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1133/2024",
+      "party_names": "Ramesh Kumar JainVsDilip Thacker",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1120/2024",
+      "party_names": "Sree Visalam Chits Fund LtdVsJ Ramesh Kumar   And 2 Others",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/843/2024",
+      "party_names": "Shriram Chits India Private LtdVsV Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/816/2024",
+      "party_names": "M/s Cholamandalam Investment And Finance Company Limited Rep By Its Authorised Signatory Mr RanjithVsRamesh A",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/806/2024",
+      "party_names": "M/s Cholamandalam Investment And Finance Company Limited Rep By Its Authorised Signatory Mr RanjithVsRameshrajan  K",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/774/2024",
+      "party_names": "Margadarsi Chits Private LimitedVsN Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/772/2024",
+      "party_names": "Margadarsi Chits Private LimitedVsN Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/673/2024",
+      "party_names": "Rupa RajeshVsR K  Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/658/2024",
+      "party_names": "K Senthil KumarVsR Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/656/2024",
+      "party_names": "K Senthil KumarVsR Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/635/2024",
+      "party_names": "M/s Shriram Chits India Pvt Ltd Rep By Its Foreman/ Senior Law Officer Mr M SivarajaVsM Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/587/2024",
+      "party_names": "Shriram Chits India Private LtdVsS Parameshwari And Another",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/464/2024",
+      "party_names": "Jayapriya Chits FundVsR. Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/373/2024",
+      "party_names": "Sbi Cards And Payment Services LtdVsRamesh  R",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/286/2024",
+      "party_names": "M/s Bajaj Finance Limited Rep By Its Poa U RajeswaranVsRamesh V",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/206/2024",
+      "party_names": "Margadarsi Chits Private LimitedVsT Ramesh Kannabiran",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/202/2024",
+      "party_names": "Margadarsi Chits Private LimitedVsT Ramesh Kannabiran",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/199/2024",
+      "party_names": "Shriram Chits India Private LtdVsV Ramesh And Another",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/48/2024",
+      "party_names": "M/s Kotak Mahindra Bank LtdVsRamesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OP/136/2024",
+      "party_names": "MOHAMMED TARIEFFVsRAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/7214/2024",
+      "party_names": "B AasaithambiVsGayathriParamesh Prop Magic Touch",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/7093/2024",
+      "party_names": "Daniel John WilsonVsN S Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/7021/2024",
+      "party_names": "A RameshVsV Kumaresan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6297/2024",
+      "party_names": "J S ENTERPRISES, Rep by its Proprietor Gogineni Sampath KumarVsJan Glacier Catazyme India Rep by its Proprietor Sampath Ramesh Iyengar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6285/2024",
+      "party_names": "M K RAMESHVsSuseela Rajasekaran",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5961/2024",
+      "party_names": "V EzhilkumarVsK Arun Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5710/2024",
+      "party_names": "S RaghunathanVsV S Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5703/2024",
+      "party_names": "Komala RameshVsMeenakshi B",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5578/2024",
+      "party_names": "B RameshVsA R Sofia",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5534/2024",
+      "party_names": "K RameshVsVijay Karthik",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5517/2024",
+      "party_names": "D S Brothers Rep by Ramesh KumarVsFortune Guarding Pvt Ltd Rep by its Authorised Signatory",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5510/2024",
+      "party_names": "A RameshVsA Duraimurugan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5329/2024",
+      "party_names": "SHOBA RAMESHVsFORTUNE GUARDING PVT LTD",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5204/2024",
+      "party_names": "Sans Electric Energy A Partnership FirmVsD.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5186/2024",
+      "party_names": "MOHAMED NAZEER HUSAIN Rep by its Power Agent Sahul HamidVsCOINERA MARKETING LLP, Rep by its Managing Partner K Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4886/2024",
+      "party_names": "Mardia Cables Rep by its Proprietor Ramesh MardiaVsHigh Flow Engineering Rep by its Proprietor Ganesh Balaraman",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4642/2024",
+      "party_names": "R RameshVsR Kannan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4608/2024",
+      "party_names": "Ramesh Jayaraman NairVsHDFC Bank, Rep by its Manager - Recoveries",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4572/2024",
+      "party_names": "Ramesh Jayaraman NairVsAditya Birla Finance Limited, Rep by its Manager - Recoveries",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4491/2024",
+      "party_names": "R Ramesh BabuVsA Rumana",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4222/2024",
+      "party_names": "S RameshVsThe Manger, Kotak Mahindra Bank, Loan Department",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4122/2024",
+      "party_names": "A K RameshVsKondaiya @ Ramadoss",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4116/2024",
+      "party_names": "Parameshwari SVsThe Manager - Recoveries, Loan Division, ICICI Bank",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4115/2024",
+      "party_names": "Parameshwari SVsThe Manager - Recoveries, Credit Card Division, ICICI Bank",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4114/2024",
+      "party_names": "S ParameshwariVsThe Manager - Recoveries, Personal Loan Division, Poonamwala Fincorp Bank",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4113/2024",
+      "party_names": "S ParameshwariVsThe Manager - Recoveries, Personal Loan Division, Hero Fincorp",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4088/2024",
+      "party_names": "Rameshwaran BalusamiVsM.Rajkumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4085/2024",
+      "party_names": "S.ParameshwariVsThe Manager Hero Fincorp",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4084/2024",
+      "party_names": "S ParameshwariVsThe Manager - Recoveries Personal Loan Division, ICICI Bank",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4031/2024",
+      "party_names": "Meera C N Ramesh Reddy Rep by their Power Agent C N Ramesh ReddyVsP Sivakumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3997/2024",
+      "party_names": "J.RameshVsJ.Suresh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3971/2024",
+      "party_names": "K C Mahendra KumarVsK Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3955/2024",
+      "party_names": "R RameshVsVijay Dafaria Proprietor M/s. Anand Motors and Finance",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3783/2024",
+      "party_names": "M RameshVsMary J Philomen",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3617/2024",
+      "party_names": "M NagarajanVsRamesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3609/2024",
+      "party_names": "The Federal Bank LtdVsA Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3587/2024",
+      "party_names": "P Subitha KumariVsJ Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3530/2024",
+      "party_names": "V Ramesh Babu Rep by his Power of Attorney Agent R GunasekarVsK Jayanthi",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3475/2024",
+      "party_names": "V RameshVsJ Mariyammal",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3438/2024",
+      "party_names": "S.RameshVsTVK Nagar House Owners, Welfare Association",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3403/2024",
+      "party_names": "The Federal Bank LtdVsA Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3364/2024",
+      "party_names": "V.BalasubramaniVsP.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3208/2024",
+      "party_names": "N RameshVsT Deivanai",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2998/2024",
+      "party_names": "Ramesh BabuVsIndusind Bank",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2534/2024",
+      "party_names": "G Shankar GaneshVsP V Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2522/2024",
+      "party_names": "Singamsetty Attendrooloo Chettys CharitiesVsRamesh Purohit",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2383/2024",
+      "party_names": "V RevathiVsG Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2339/2024",
+      "party_names": "C RameshVsYes Bank, The Manager Recoveries - Credit Card Division",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2150/2024",
+      "party_names": "JenovaVsM Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1833/2024",
+      "party_names": "H.ShanmugamVsT.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1828/2024",
+      "party_names": "G.Jothi Lakshmi Rep by her PoA G.Ramesh BabuVsPrivate Cop Guarding and Services rep by his Proprietor V.Srikumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1805/2024",
+      "party_names": "S RameshVsNivas",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1634/2024",
+      "party_names": "K A RameshVsS Kannan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1633/2024",
+      "party_names": "K A RameshVsS Kannan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1632/2024",
+      "party_names": "K A RameshVsS Kannan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1587/2024",
+      "party_names": "T JothimaniVsR Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1483/2024",
+      "party_names": "C RameshVsICICI Bank, The Manager Recoveries - Credit Card Based Loan Division",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1433/2024",
+      "party_names": "D.RameshVsRamalakshmi",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1397/2024",
+      "party_names": "V.RameshVsXavier",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1320/2024",
+      "party_names": "S G Ramesh Cumar Represented by its KartaVsPadmapriya Rangarajan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1315/2024",
+      "party_names": "K.RameshVsArumbakkam Benefit Fund Ltd",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1213/2024",
+      "party_names": "P G ShanmugamVsRamesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1147/2024",
+      "party_names": "K RameshVsO Mathivanan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1079/2024",
+      "party_names": "L KumariVsM RameshKumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1045/2024",
+      "party_names": "R RameshVsS Bhavani",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/982/2024",
+      "party_names": "B EkambaramVsT Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/866/2024",
+      "party_names": "C RameshVsState Bank of India, The Manager Recoveries - Credit Card Division,",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/795/2024",
+      "party_names": "G ParameshwariVsS Malathi Suresh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/668/2024",
+      "party_names": "Mohammed JasorVsVidhya Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/490/2024",
+      "party_names": "Pukhraj DugharVsM Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/337/2024",
+      "party_names": "R PrathibaVsJ M Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/251/2024",
+      "party_names": "K RameshVsFibe International Services, Rep by its Manager Recoveries",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/238/2024",
+      "party_names": "Fluid Valve Co Rep by its partner Mohammed MiyajiwalaVsTOOT MNE TECH PRIVATE LIMITED Rep by its Managing Director Ethirajulu Rameshbabu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/158/2024",
+      "party_names": "K.RamadossVsV.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/129/2024",
+      "party_names": "P M HalimuthuVsR R Resources Rep by its Proprietor Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SC/271/2024",
+      "party_names": "State rep by its Inspector of PoliceVsRamesh @ Ramesh kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SC/254/2024",
+      "party_names": "State rep by its Inspector of Police,Law and OrderVsRamesh Alias Rameshkumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SC/248/2024",
+      "party_names": "State rep by its Inspector of PoliceVsA2.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SC/157/2024",
+      "party_names": "L and O, Inspector of PoliceVsRamesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SC/38/2024",
+      "party_names": "State rep by its Inspector of PoliceVsRamesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SPLCC/1/2024",
+      "party_names": "Serious Fraud Investigation Office, Rep.by. B.Ramesh  NarasimhamVsKanishk Gold Private Limited (KGPL)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/37113/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/37009/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/36954/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/36923/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/36861/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/36815/2024",
+      "party_names": "J.M.Ramesh Proprietor of Photo MaxVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/36730/2024",
+      "party_names": "Punya Gold India Pvt Ltd rep by its DirectorVsKhandan Jewellers Rep by its Partner Ramesh Kumar Golecha",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/36654/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/36393/2024",
+      "party_names": "A6.RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/36359/2024",
+      "party_names": "Joshwa rameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/35896/2024",
+      "party_names": "N.Ramesh BabuVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/35818/2024",
+      "party_names": "Tamilarasan RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/35778/2024",
+      "party_names": "v chitraVsJ Parameshwaran",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/35660/2024",
+      "party_names": "Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/35659/2024",
+      "party_names": "Ramesh @ Ramesh KumaVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/35032/2024",
+      "party_names": "D.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/35009/2024",
+      "party_names": "Ramesh@mittairam@RamkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34946/2024",
+      "party_names": "Ramesh @ Ponda RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34887/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34840/2024",
+      "party_names": "AP BROILERS G ArulanandhamVsU Ramesh Krishnan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34831/2024",
+      "party_names": "Appu @ Ramesh @ SureshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34799/2024",
+      "party_names": "MuthulakshmiVsRamesh jesuprakash paulson",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34763/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34425/2024",
+      "party_names": "A2.Ramesh @ Kattumar RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34424/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34350/2024",
+      "party_names": "Ramesh @ Kushmi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34242/2024",
+      "party_names": "AP BROILERS G ArulanandhamVsRamesh krishnan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/34239/2024",
+      "party_names": "Ramesh Alias RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/33972/2024",
+      "party_names": "R SuseelaVsV Ramesh Babu Rep PA R Gunasekar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/33842/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/33762/2024",
+      "party_names": "Ramesh @ Ramesh kumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/33622/2024",
+      "party_names": "Rameh @ Chinna Market RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/33285/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/33267/2024",
+      "party_names": "J.M.Ramesh Proprietor of Photo MaxVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/33243/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/33074/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32983/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32959/2024",
+      "party_names": "Ramesh Alias RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32942/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32874/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32430/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32426/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32392/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32366/2024",
+      "party_names": "C RAMESH BABUVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/32282/2024",
+      "party_names": "Ramesh @ Ponda RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31953/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31741/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31686/2024",
+      "party_names": "Ramesh @ SamuvelVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31384/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31119/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31116/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31092/2024",
+      "party_names": "Ramesh Alias RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31029/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/31028/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/30682/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/30609/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/30556/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/30465/2024",
+      "party_names": "Ramesh ShankarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/30317/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/30281/2024",
+      "party_names": "Ilayaraja @ Revu RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29960/2024",
+      "party_names": "Ramesh A15 and Karthick A46Vs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29923/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29888/2024",
+      "party_names": "A6.RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29862/2024",
+      "party_names": "Ramesh Babu  otherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29855/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29804/2024",
+      "party_names": "Ramesh @ G.H.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29725/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29551/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29386/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29297/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29183/2024",
+      "party_names": "Rameshbhai Bhadabhai BhograVsThe State rep. by Deputy Superintendent of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29125/2024",
+      "party_names": "Ramesh KumarVsArjun Amaravathi Chit Pvt Ltd",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/29074/2024",
+      "party_names": "ParameshwariVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28967/2024",
+      "party_names": "Ramesh @ P.T.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28950/2024",
+      "party_names": "Ramesh @ P.T.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28692/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28288/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28145/2024",
+      "party_names": "A2.Ramesh @ Kattumar RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27928/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27787/2024",
+      "party_names": "Ramesh @ Ramesh kumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27786/2024",
+      "party_names": "Ramesh @ Ramesh kumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27785/2024",
+      "party_names": "Ramesh @ Ramesh kumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27612/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27592/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27279/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27208/2024",
+      "party_names": "A6.RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27207/2024",
+      "party_names": "A6.RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27204/2024",
+      "party_names": "A6.RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27192/2024",
+      "party_names": "Tamilarasan RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27151/2024",
+      "party_names": "Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27093/2024",
+      "party_names": "V RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27092/2024",
+      "party_names": "V RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27091/2024",
+      "party_names": "V RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27065/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26826/2024",
+      "party_names": "Ramesh alias Jinda Ramesh alias Chinna Market RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26741/2024",
+      "party_names": "Ramesh alias RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26671/2024",
+      "party_names": "Parameshwari @ KaruthammaVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26642/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26641/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26640/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26566/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26530/2024",
+      "party_names": "Ramesh RangarajVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26525/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26512/2024",
+      "party_names": "Ramesh GardasVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26505/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26396/2024",
+      "party_names": "Ramesh @ Tondi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26384/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26344/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26326/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26253/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26220/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26085/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26055/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25789/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25340/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25263/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25262/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25252/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25221/2024",
+      "party_names": "Rameh @ Chinna Market RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25153/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25146/2024",
+      "party_names": "J.M.Ramesh Proprietor of Photo MaxVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/25056/2024",
+      "party_names": "Ramesh @ Ponda RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24999/2024",
+      "party_names": "Ramesh Babu  otherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24952/2024",
+      "party_names": "Ramesh @ Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24449/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24267/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24010/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24008/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23871/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23838/2024",
+      "party_names": "M. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23702/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23674/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23659/2024",
+      "party_names": "Ilayaraja @ Revu RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23649/2024",
+      "party_names": "Tamilarasan RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23520/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23166/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22786/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22754/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22679/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22625/2024",
+      "party_names": "Ramesh @ Sori Ramesh A5Vs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22617/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22615/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22556/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22519/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22479/2024",
+      "party_names": "Rameh @ Chinna Market RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22280/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/22250/2024",
+      "party_names": "Parameshwari and one anotherVsInspector of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/21716/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/21250/2024",
+      "party_names": "Ramesh @ Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/20736/2024",
+      "party_names": "E.RameshVsThe Inspector Of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/20724/2024",
+      "party_names": "PrakasamVsS.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/20632/2024",
+      "party_names": "E.S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/20608/2024",
+      "party_names": "RameshVsThe Inspector Of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/20509/2024",
+      "party_names": "Ramesh Alias PonnambalamVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/20433/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/20125/2024",
+      "party_names": "Ramesh @ Ponda RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19953/2024",
+      "party_names": "Tamilarasan RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19814/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19810/2024",
+      "party_names": "N.Ramesh BabuVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19714/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19650/2024",
+      "party_names": "v.paramesh @ babuVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19472/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19471/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19470/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19379/2024",
+      "party_names": "Ramesh @ ManickavasagarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19340/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19295/2024",
+      "party_names": "Ramesh @ KothaliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19246/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19055/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/18829/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/18775/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/18701/2024",
+      "party_names": "Ramesh @ KothaliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/18504/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/18503/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/18334/2024",
+      "party_names": "J.M.Ramesh Proprietor of Photo MaxVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/18259/2024",
+      "party_names": "V. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/18034/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/17197/2024",
+      "party_names": "Connancherry Venkatesan RameshVsKSM Rajan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/17172/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/17152/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/17103/2024",
+      "party_names": "Tamilarasan RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/17102/2024",
+      "party_names": "Tamilarasan RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/17039/2024",
+      "party_names": "Ramesh @ Tondi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16984/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16956/2024",
+      "party_names": "Ramesh alias RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16816/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16788/2024",
+      "party_names": "Ramesh @ Thondi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16773/2024",
+      "party_names": "Ramesh @ Tondi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16768/2024",
+      "party_names": "Ramesh @ RangarajVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16647/2024",
+      "party_names": "ParameshwariVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16545/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16482/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16468/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16141/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16050/2024",
+      "party_names": "B.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15718/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15575/2024",
+      "party_names": "V. VasanthVsRamesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15406/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15392/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15362/2024",
+      "party_names": "J.M.Ramesh Proprietor of Photo MaxVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15354/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15187/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14900/2024",
+      "party_names": "Ramesh.RVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14887/2024",
+      "party_names": "Ramesh SabapathyVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14641/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14614/2024",
+      "party_names": "Ramesh @ RangarajVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14392/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14109/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14051/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13790/2024",
+      "party_names": "Ramesh Babu  otherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13775/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13757/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13720/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13668/2024",
+      "party_names": "v.paramesh @ babuVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13666/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13477/2024",
+      "party_names": "Ramesh DossVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13464/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13423/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13337/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13277/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13276/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13185/2024",
+      "party_names": "Ilayaraja @ Revu RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13089/2024",
+      "party_names": "Ramesh.RVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12823/2024",
+      "party_names": "D.RameshVsR.T.Ashalatha",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12813/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12811/2024",
+      "party_names": "Ramesh @ ManickavasagarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12668/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12575/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12571/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12449/2024",
+      "party_names": "A.Ramesh DossVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12437/2024",
+      "party_names": "Ramesh @ RangarajanVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12325/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12294/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12166/2024",
+      "party_names": "Appu @ Suresh @ RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12072/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11998/2024",
+      "party_names": "Ramesh @ SamuvelVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11921/2024",
+      "party_names": "B.RameshVsThe Inspector Of Police, K-10",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11919/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11867/2024",
+      "party_names": "V.V.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11839/2024",
+      "party_names": "Appu @ Suresh @ RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11838/2024",
+      "party_names": "Appu alias Suresh alias RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11422/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11311/2024",
+      "party_names": "A2.Ramesh @ Kattumar RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11293/2024",
+      "party_names": "A.Ramesh DossVsState rep by its Inspector of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11227/2024",
+      "party_names": "Ramesh @ Ponda RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11211/2024",
+      "party_names": "Ramesh Babu  otherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11190/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10874/2024",
+      "party_names": "A2.Ramesh @ Kattumar RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10780/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10779/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10752/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10705/2024",
+      "party_names": "Ramesh alias Villi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10694/2024",
+      "party_names": "Ilayaraja @ Revu RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10357/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10295/2024",
+      "party_names": "B RameshVsThe Inspector Of Police,k10",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10106/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10101/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9887/2024",
+      "party_names": "Ramesh @ ManickavasagarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9818/2024",
+      "party_names": "Rameh @ Chinna Market RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9804/2024",
+      "party_names": "Appu @ Suresh @ RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9803/2024",
+      "party_names": "Appu @ Suresh @ RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9709/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9629/2024",
+      "party_names": "Ramesh @ Thondi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9570/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9569/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9463/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8997/2024",
+      "party_names": "Ilayaraja @ Revu RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8804/2024",
+      "party_names": "K.G.Ramesh Raj @ MuraliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8733/2024",
+      "party_names": "Ramesh @ ManickavasagarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8730/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8663/2024",
+      "party_names": "Ramesh Babu  otherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8628/2024",
+      "party_names": "Ramesh alias Parota SeeniVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8625/2024",
+      "party_names": "Ramesh alias Parota SeeniVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8623/2024",
+      "party_names": "Ramesh alias Parota SeeniVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8352/2024",
+      "party_names": "Directorate of Enforcement rep by its Assistant DirectorVsRamesh Raj",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8292/2024",
+      "party_names": "MuthuVsC.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8089/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8045/2024",
+      "party_names": "A6.RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7812/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7354/2024",
+      "party_names": "1) Ramesh @ Sori RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7071/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7067/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7059/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6978/2024",
+      "party_names": "Ramesh @ RangarajVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6961/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6937/2024",
+      "party_names": "A2.Ramesh @ Kattumar RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6936/2024",
+      "party_names": "A2.Ramesh @ Kattumar RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6862/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6860/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6596/2024",
+      "party_names": "Ramesh @ ManickavasagarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6583/2024",
+      "party_names": "Ramesh alias Parota SeeniVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6550/2024",
+      "party_names": "RameshVsState rep by its Inspector of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6549/2024",
+      "party_names": "V.V.RameshVsState rep by its Inspector of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6459/2024",
+      "party_names": "A2.Ramesh @ Kattumar RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6311/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6309/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6126/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6087/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5995/2024",
+      "party_names": "Ramesh Babu  otherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5640/2024",
+      "party_names": "Ramesh alias Villi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5639/2024",
+      "party_names": "Ramesh alias Villi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5637/2024",
+      "party_names": "Ramesh alias Villi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5482/2024",
+      "party_names": "A5.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5481/2024",
+      "party_names": "A5.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5480/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5361/2024",
+      "party_names": "Ramesh alias Parota SeeniVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5288/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5136/2024",
+      "party_names": "P.Parameshwari and anotherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4934/2024",
+      "party_names": "RameshaVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4822/2024",
+      "party_names": "Ramesh alias Parota SeeniVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4756/2024",
+      "party_names": "RameshaVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4227/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4028/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3803/2024",
+      "party_names": "Ramesh Babu  otherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3669/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3631/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3618/2024",
+      "party_names": "RameshVsInspector of Police",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3447/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3421/2024",
+      "party_names": "RameshaVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3407/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3198/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3115/2024",
+      "party_names": "Ilayaraja @ Revu RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3107/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3057/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2911/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2899/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2834/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2768/2024",
+      "party_names": "Ilayaraja @ Revu RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2678/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2667/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2626/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2598/2024",
+      "party_names": "Rameh @ Chinna Market RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2578/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2463/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2369/2024",
+      "party_names": "S.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2222/2024",
+      "party_names": "Ramesh @ Chinna Market RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2178/2024",
+      "party_names": "Ramesh @ Ponda RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2119/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1860/2024",
+      "party_names": "Ramesh @ SamuvelVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1834/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1612/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1319/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1312/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1194/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1116/2024",
+      "party_names": "Ramesh Babu  otherVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1104/2024",
+      "party_names": "Ramesh @ SamuvelVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1093/2024",
+      "party_names": "Ramesh @ Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1091/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1090/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1041/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/901/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/798/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/740/2024",
+      "party_names": "Ramesh @ KiliVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/609/2024",
+      "party_names": "Shri N.RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/553/2024",
+      "party_names": "Rameshkumar @ RajVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/547/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/195/2024",
+      "party_names": "A6.RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/91/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/83/2024",
+      "party_names": "V.Ramesh @ Pattinapakkam RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/67/2024",
+      "party_names": "ParameshwaranVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/65/2024",
+      "party_names": "ParameshwaranVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/52/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLR/30/2024",
+      "party_names": "Roop Chand topleVsM/s Same Duetz Fahr (India ) Pvt ltd  rep by its authorised P.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLR/23/2024",
+      "party_names": "T RameshVsB Srilakshmi",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "RLTA/96/2024",
+      "party_names": "Rachel PothurajulaVsC.R.Kannika Parameshwari",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "RLTA/54/2024",
+      "party_names": "Ramesh KumarVsR Mangilal Ranka",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "RLTA/28/2024",
+      "party_names": "Ramesh KumarVsM. Neelakandan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "RLTA/25/2024",
+      "party_names": "G .Srividya VeniVsB .Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/270/2024",
+      "party_names": "V.S.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/270/2024",
+      "party_names": "Ramesh R Dave",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/228/2024",
+      "party_names": "V.S.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/228/2024",
+      "party_names": "Ramesh R.Dave",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/216/2024",
+      "party_names": "Ramesh R. Dev",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/216/2024",
+      "party_names": "V.S.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/215/2024",
+      "party_names": "Renuka Parameshwari",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/197/2024",
+      "party_names": "Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/143/2024",
+      "party_names": "S.Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/141/2024",
+      "party_names": "Lakshmi Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/62/2024",
+      "party_names": "T.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "AS/46/2024",
+      "party_names": "Lakshmi Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/10/2024",
+      "party_names": "N Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/760/2024",
+      "party_names": "D RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/760/2024",
+      "party_names": "JEEVITHA RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/758/2024",
+      "party_names": "D RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/758/2024",
+      "party_names": "JEEVITHA RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/757/2024",
+      "party_names": "JEEVITHA RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/757/2024",
+      "party_names": "D RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLA/518/2024",
+      "party_names": "Parameshwari",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1805/2024",
+      "party_names": "K Ramesh    Judgement Debtor 3",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1525/2024",
+      "party_names": "N RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1523/2024",
+      "party_names": "N RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1490/2024",
+      "party_names": "M RAMESHKUMAR",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1342/2024",
+      "party_names": "Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1271/2024",
+      "party_names": "K. Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1181/2024",
+      "party_names": "K Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1175/2024",
+      "party_names": "S Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1157/2024",
+      "party_names": "D Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1155/2024",
+      "party_names": "D Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1143/2024",
+      "party_names": "M Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1131/2024",
+      "party_names": "Ms Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1116/2024",
+      "party_names": "M Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1107/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/1036/2024",
+      "party_names": "B.M. Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/996/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/921/2024",
+      "party_names": "M.S.Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/615/2024",
+      "party_names": "S Ramesh Babu  Jd2",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/509/2024",
+      "party_names": "A. Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/448/2024",
+      "party_names": "Lakshmi Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/446/2024",
+      "party_names": "Lakshmi Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/176/2024",
+      "party_names": "D Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OP/177/2024",
+      "party_names": "D.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OP/16/2024",
+      "party_names": "Ramesh Shroof",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/7292/2024",
+      "party_names": "S. Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/7254/2024",
+      "party_names": "T.V.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6693/2024",
+      "party_names": "Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6599/2024",
+      "party_names": "RAMESH",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6308/2024",
+      "party_names": "Tanya Aishwarya Malik Rep by Power of Attorney Paramesh Sambandan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6201/2024",
+      "party_names": "V Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/6164/2024",
+      "party_names": "P.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5849/2024",
+      "party_names": "J Ramesh Chandran",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5833/2024",
+      "party_names": "D Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5497/2024",
+      "party_names": "A Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5479/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5425/2024",
+      "party_names": "J Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/5257/2024",
+      "party_names": "R Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4958/2024",
+      "party_names": "S Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4953/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4703/2024",
+      "party_names": "T R Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4449/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4447/2024",
+      "party_names": "Senthil Ramesh General Secretary  SBI Officers Association (Chennai Circle)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/4329/2024",
+      "party_names": "K Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3814/2024",
+      "party_names": "Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3772/2024",
+      "party_names": "R Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3526/2024",
+      "party_names": "R.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3361/2024",
+      "party_names": "R.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3361/2024",
+      "party_names": "R.Parameshwari",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/3005/2024",
+      "party_names": "Ramesh Babu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2931/2024",
+      "party_names": "Mrs. Rekha Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2395/2024",
+      "party_names": "S Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/2159/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1706/2024",
+      "party_names": "J Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1619/2024",
+      "party_names": "N Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/1611/2024",
+      "party_names": "S Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/968/2024",
+      "party_names": "Ramesh Chitrala",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/891/2024",
+      "party_names": "Ramesh Chitrala",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/883/2024",
+      "party_names": "Sri Ramesh Chitrala",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/439/2024",
+      "party_names": "A Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/207/2024",
+      "party_names": "Jain International Trade Organization Rep by its Chairman Ramesh Dugar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OS/130/2024",
+      "party_names": "P Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SC/143/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SC/104/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SC/16/2024",
+      "party_names": "Ramesh alias Villi Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28225/2024",
+      "party_names": "D RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28225/2024",
+      "party_names": "JEEVITHA RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28212/2024",
+      "party_names": "D RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28212/2024",
+      "party_names": "JEEVITHA RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28209/2024",
+      "party_names": "D RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/28209/2024",
+      "party_names": "JEEVITHA RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26677/2024",
+      "party_names": "Ramesh @ Samuel",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/24057/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/23071/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/21403/2024",
+      "party_names": "Ramesh @ Thondi Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/19284/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/16048/2024",
+      "party_names": "R.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15077/2024",
+      "party_names": "rep.by. Ramesh Pokkali",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/15019/2024",
+      "party_names": "R.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14317/2024",
+      "party_names": "Parameshwari",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14029/2024",
+      "party_names": "Parameshwari",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13000/2024",
+      "party_names": "R.Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SPL.SC/2/2024",
+      "party_names": "A4. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/844/2024",
+      "party_names": "The Inspector of Police, PEW Tambaram, Cr.No.220/2024VsPangi Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/648/2024",
+      "party_names": "The Inspector of Police, K8 Arumbakkam PS, Cr.No. 215/2024VsRAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/553/2024",
+      "party_names": "The Inspector of Police, PEW Pallikaranai, Cr.No. 44/2023VsRamesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/288/2024",
+      "party_names": "The Inspector of Police, Cr.No.380/2024, T-2 Chrompet P.SVsRamesh Padapai Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14699/2024",
+      "party_names": "Ramesh @ GH Ramesh and another oneVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14654/2024",
+      "party_names": "Ramesh @ RangarajVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14508/2024",
+      "party_names": "Ramesh @ Baloon RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14445/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14432/2024",
+      "party_names": "Rameshkumar@RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14420/2024",
+      "party_names": "Ramesh @ Samuvel and another oneVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14100/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14055/2024",
+      "party_names": "Ramesh @ Samuel and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13846/2024",
+      "party_names": "Ramesh @ Samuvel and another oneVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13702/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13648/2024",
+      "party_names": "Ramesh @ Baloon RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13332/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/13245/2024",
+      "party_names": "Ramesh @ Case RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12768/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12692/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11985/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11689/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11541/2024",
+      "party_names": "Ramesh Aravind @ AppunVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11406/2024",
+      "party_names": "Kumar (Rameshkumar)Vs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11251/2024",
+      "party_names": "K.Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11060/2024",
+      "party_names": "Ramesh @ Case RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11059/2024",
+      "party_names": "Ramesh @ Case RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11058/2024",
+      "party_names": "Ramesh @ Case RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10592/2024",
+      "party_names": "Ramesh and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10256/2024",
+      "party_names": "Ramesh Aravind @ AppunVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10086/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9673/2024",
+      "party_names": "Ramesh IthaVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9428/2024",
+      "party_names": "Ramesh Kumar and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9418/2024",
+      "party_names": "Ramesh Kumar and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/9413/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7857/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7761/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7737/2024",
+      "party_names": "Pangi RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7608/2024",
+      "party_names": "The Inspector of PoliceVsPangi Ramesh(Cr.No.220/24, PEW Tambaram,439crpc)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7451/2024",
+      "party_names": "Ramesh Aravind @ AppunVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7430/2024",
+      "party_names": "Ramesh Aravind @ AppunVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7429/2024",
+      "party_names": "Ramesh Aravind @ AppunVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7287/2024",
+      "party_names": "Babu and RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/7286/2024",
+      "party_names": "P.ParameshwaranVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6983/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6874/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6520/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5690/2024",
+      "party_names": "Ramesh @ Samuel and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5444/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5410/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5046/2024",
+      "party_names": "Ramesh and 8 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4715/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4238/2024",
+      "party_names": "Ramesh BhoiVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3882/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3740/2024",
+      "party_names": "Ramesh ChandranVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3648/2024",
+      "party_names": "Ramesh Pal and another oneVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3459/2024",
+      "party_names": "Ramesh ChandranVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2592/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2591/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2590/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2315/2024",
+      "party_names": "Ramesh and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2276/2024",
+      "party_names": "Ramesh ChandranVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2228/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1972/2024",
+      "party_names": "Ramesh ChandranVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1768/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1760/2024",
+      "party_names": "Ramesh Aitha and 9 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1445/2024",
+      "party_names": "Ramesh ChandranVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1399/2024",
+      "party_names": "Ramesh and 8 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1380/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1339/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1274/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1219/2024",
+      "party_names": "Vigneshwaran and RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/855/2024",
+      "party_names": "Ramesh @ Arisikadai RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/836/2024",
+      "party_names": "M.Vigneshwaran and M. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/798/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/688/2024",
+      "party_names": "Ramesh Aitha and 9 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/625/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/624/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/623/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/606/2024",
+      "party_names": "Ramesh @ Padappai RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/604/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/433/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/150/2024",
+      "party_names": "Ramesh Kumar and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/149/2024",
+      "party_names": "Ramesh Kumar and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/61/2024",
+      "party_names": "Ramesh and 2 othersVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/975/2024",
+      "party_names": "RAMESH alies RAKKI",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/973/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/876/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/784/2024",
+      "party_names": "JOSHWA ALAIS RAMESH",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/473/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/58/2024",
+      "party_names": "Yashwanth Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/14585/2024",
+      "party_names": "S/o. Rameshbabu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12802/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/12017/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/11454/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10453/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10376/2024",
+      "party_names": "S/o. Rameshbabu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10031/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10016/2024",
+      "party_names": "S/o. Rameshbabu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/10015/2024",
+      "party_names": "S/o. Rameshbabu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8800/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/8485/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6653/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5568/2024",
+      "party_names": "S/o. Rameshbabu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5567/2024",
+      "party_names": "S/o. Rameshbabu",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5318/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5317/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4893/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4892/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1989/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/340/2024",
+      "party_names": "S/o. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6658/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, EOW, CHENNAI.VsRAMESH A4 IN C.C.61/2003(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6647/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6646/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6645/2024",
+      "party_names": "S. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6522/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, EOW, CHENNAIVsA4 - RAMESH IN C.C.NO.61/2003  (317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6513/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAIVsA1 - N.RAMESH GELLI IN C.C.NO.3/2009  (317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6396/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAIVsA-11 RAMESH IN C.C.NO.17-2021  (317)(355 BNSS)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6278/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAIVsA3 - H.PRAKASH CHANDRA SHETTY A-6 RAMESH IN C.C.NO.19/2007  (317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/6206/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsSRIRAM RAMESH CHAKARAPANI A11, IN CC.41/15 (317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5811/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5337/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5320/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsRAMESH A11 IN C.C.17/21 (317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/5018/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, BSFC, BANGALORE.VsRAMESH GELLI A1 IN C.C.3/09 (317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4743/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4547/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, BSFC, BANGALOREVsRAMESH GELLI A1 IN C.C.3/09 (317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/4372/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3993/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3667/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3421/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/3036/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAIVsA1 N.Ramesh Gelli in C.C.No.3/2009   317",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2942/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2631/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2121/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2020/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsRAMESH GELLI A1, CC.3/09(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1992/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsVIVEK RAMESH KATRE A14, IN CC.8/02(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1850/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsRAMESH A6, CC.19/2007 (317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1830/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1444/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsVIVEK RAMESH KATRE A14, CC.8/02(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1367/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1082/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsM.RAMESH, A11, CC.17/21(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/982/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsVIVEK RAMESH KARTHI A14, CC.08/02(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/964/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/685/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsKUMARASAN A8, M.RAMESH A11, CC.17/21(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/619/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/465/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsRAMESH A4,CC.61/03(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/427/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION,ACB,CHENNAI.VsA.KUMARASAMY A8, M.RAMESH A11,CC.17/2021(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/208/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, BSFC, BANGALOREVsN.RAMESH GELLI A1 IN C.C.3/09(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/98/2024",
+      "party_names": "R. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/30/2024",
+      "party_names": "CENTRAL BUREAU OF INVESTIGATION, ACB, CHENNAI.VsM.RAMESH,A11.CC.17/21(317)",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SPLCC/7/2024",
+      "party_names": "N. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2206/2024",
+      "party_names": "RAMESHVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/2051/2024",
+      "party_names": "R.RAMESHVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1564/2024",
+      "party_names": "J. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1278/2024",
+      "party_names": "RAMESHVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1129/2024",
+      "party_names": "RAMESHVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/934/2024",
+      "party_names": "D. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/925/2024",
+      "party_names": "RAMESHVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CC/4/2024",
+      "party_names": "Ramesh @ Ramesh Kumar",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OA/12/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/45/2024",
+      "party_names": "K.RAMESHVsK.L.N.Automobiles (P) Ltd.,",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/35/2024",
+      "party_names": "Rameshkumar KVsSabanayagam Printers",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "OP/139/2024",
+      "party_names": "M.Ramesh, Labour Contractor",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1745/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1594/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1581/2024",
+      "party_names": "Ayyappan RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1526/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1445/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1369/2024",
+      "party_names": "V-6 Kolathur PSVsRamesh M/A.52",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1180/2024",
+      "party_names": "SaralaVsRamesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1178/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/1023/2024",
+      "party_names": "Ayyappan RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/992/2024",
+      "party_names": "RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/986/2024",
+      "party_names": "Ramesh @ Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/765/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/764/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/763/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/732/2024",
+      "party_names": "Ramesh @ Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/698/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/689/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/685/2024",
+      "party_names": "Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/653/2024",
+      "party_names": "Ramesh @ Ramesh KumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/617/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/574/2024",
+      "party_names": "RameshkumarVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/307/2024",
+      "party_names": "Ramesh KannanVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/256/2024",
+      "party_names": "Ramesh KannanVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/255/2024",
+      "party_names": "Ramesh KannanVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/118/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/117/2024",
+      "party_names": "A1. RameshVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/63/2024",
+      "party_names": "Ramesh KannanVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/27/2024",
+      "party_names": "Ramesh KannanVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "CRLMP/26/2024",
+      "party_names": "Ramesh KannanVs",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SPL.SC/308/2024",
+      "party_names": "W-9 Villivakkam AWPSVsA1. Ramesh M/A. 52",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SPL.SC/161/2024",
+      "party_names": "K-10 Koyambedu AWPSVsRameshkumar M/A. 42",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SPL.SC/209/2024",
+      "party_names": "A2. Rameshkumar M/A. 33",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "SPL.SC/14/2024",
+      "party_names": "A4. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "EP/20/2024",
+      "party_names": "M/s. Mardia Cables Represented By Its Proprietor Ramesh MardiaVsM/s. Choice Electricals Represented By Its Proprietor Mohan",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/309/2024",
+      "party_names": "Pukhraj Rameshchand, Proprietor of M/s Swastic Dyes and ChemicalVsM/s Susruta Agencies (MAS) Private Limited",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/290/2024",
+      "party_names": "Pk Vaduvammal Rep By Its Authorized Signatory D M SureshVsC S Ramesh Sole Proprietor Trading In The Name And Style Of  Cs Rao Infra Projects",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/253/2024",
+      "party_names": "Bank of Baroda, Rep. by Assistant General ManagerVsM/s. Jeeva Engineering Works, Rep. by Proprietor Mr. G. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/191/2024",
+      "party_names": "M/s Pomegranate Rep By Its Proprietor Mr UmapathyVsJhr Associates Rep By Its Partners Ms Jharna And Mr Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/99/2024",
+      "party_names": "M/S. Rahmath traders Rep by its Proprietor M R Mohammed AliVsM/s. PSC fabrication, Rep by its Proprietor C Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/253/2024",
+      "party_names": "G. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/253/2024",
+      "party_names": "G. Ramesh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/222/2024",
+      "party_names": "Ramesh Mehta",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/197/2024",
+      "party_names": "Rajesh Sharma, S/o. Mr. Ramesh Sharma.",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/197/2024",
+      "party_names": "Ramesh Sharma, S/o. Mr. Acchar Singh",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/191/2024",
+      "party_names": "Ramesh",
+      "match": {
+        "match_type": "EXACT_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    },
+    {
+      "case_number": "COS/148/2024",
+      "party_names": "Ramesh S, S/O. Mr. Sethu.",
+      "match": {
+        "match_type": "PARTIAL_NAME_MATCH",
+        "confidence": "MEDIUM"
+      }
+    }
+  ],
+  "summary": "Matching case records were found using the selected search criteria.",
+  "disclaimer": "Name-based matches may refer to different individuals. Independent legal verification is recommended."
+}

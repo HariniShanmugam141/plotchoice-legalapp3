@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "search_id": "9be185f1-8bfa-47f1-a724-979671724c9b",
+  "status": "FAILED",
+  "message": "Court search workflow failed while inspecting portal state: Court Complex 'Chennai City Civil Court' not found in dropdown. (Check exact spelling from eCourts website)"
+}

@@ -1,0 +1,14 @@
+{
+  "search_id": "c14f1e9d-4e2b-4ebc-ac6a-e8726905f127",
+  "received_at": "2026-09-21 22:22:45.782924",
+  "request": {
+    "search_source": "ECOURTS",
+    "search_type": "PARTY_NAME",
+    "party_name": "Naagesh",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "court_complex": "City Civil Court Complex",
+    "registration_year": "2020",
+    "case_status": "BOTH"
+  }
+}

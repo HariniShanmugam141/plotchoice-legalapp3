@@ -1,0 +1,8 @@
+{
+  "success": false,
+  "search_id": "86369795-df1c-4b83-bd9b-06a02c0a587b",
+  "provider": "Revenue Court",
+  "status": "MANUAL_CONFIGURATION_REQUIRED",
+  "message": "Revenue Court search is state-specific and the official provider workflow has not been configured yet.",
+  "next_action": "CONFIGURE_REVENUE_COURT_PROVIDER"
+}

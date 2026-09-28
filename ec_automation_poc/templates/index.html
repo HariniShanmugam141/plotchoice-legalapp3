@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>PlotChoice — EC Automation POC</title>
+<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+<div class="wrap">
+  <h1>Encumbrance Certificate — Search</h1>
+
+  <div style="background: #eef; padding: 15px; border-radius: 4px; border: 1px solid #ccd; margin-bottom: 20px;">
+    <h3 style="margin-top: 0;">Upload Sale Deed</h3>
+    <div style="display: flex; gap: 10px; align-items: center;">
+      <input type="file" id="deedFile" accept=".pdf" style="flex: 1;">
+      <button type="button" id="processDeedBtn">Process Document</button>
+    </div>
+    <p id="deedStatus" style="font-size: 0.9em; margin-top: 10px; font-weight: bold;"></p>
+  </div>
+
+  <form id="ec-form">
+    
+    <!-- DATES (VISIBLE) -->
+    <div class="row">
+      <label>EC Start Date
+        <input type="date" name="ec_start_date" min="1970-01-01" required>
+      </label>
+      <label>EC End Date
+        <input type="date" name="ec_end_date" min="1970-01-01" required>
+      </label>
+    </div>
+
+    <!-- HIDDEN EXTRACTED FIELDS -->
+    <div id="hidden-fields" style="display: none;">
+      <label>Zone
+        <select name="zone" id="zone-select">
+          <option value="">- Select -</option>
+        </select>
+        <input type="text" id="zone-manual" placeholder="Type manually..." style="display:none; margin-top:5px;">
+      </label>
+      
+      <label>District
+        <select name="district" id="district-select" disabled>
+          <option value="">- Select -</option>
+        </select>
+        <input type="text" id="district-manual" placeholder="Type manually..." style="display:none; margin-top:5px;">
+      </label>
+      
+      <label>Sub Registrar Office
+        <select name="sro" id="sro-select" disabled>
+          <option value="">- Select -</option>
+        </select>
+        <input type="text" id="sro-manual" placeholder="Type manually..." style="display:none; margin-top:5px;">
+      </label>
+
+      <label>Registration Village
+        <select name="village" id="village-select" disabled>
+          <option value="">- Select -</option>
+        </select>
+        <input type="text" id="village-manual" placeholder="Type manually..." style="display:none; margin-top:5px;">
+      </label>
+      
+      <label>Survey No.
+        <input type="text" name="survey_no">
+      </label>
+      
+      <label>Subdivision No.
+        <input type="text" name="sub_division">
+      </label>
+    </div>
+
+    <button type="submit" id="search-btn">Search on TNREGINET</button>
+  </form>
+
+  <div id="status" class="status"></div>
+
+  <div id="captcha-section" class="hidden">
+    <h2>Enter Captcha</h2>
+    <img id="captcha-img" alt="captcha">
+    <div class="row">
+      <input type="text" id="captcha-input" placeholder="Type captcha text">
+      <button id="captcha-submit-btn">Submit</button>
+    </div>
+    <p id="captcha-msg"></p>
+  </div>
+
+  <!-- NEW EMAIL SECTION FOR >200 RECORDS -->
+  <div id="emailSection" style="display: none; margin-top: 20px; padding: 15px; border: 1px solid #ffcc00; background-color: #fff8cc; border-radius: 4px;">
+    <p style="color: #b30000; font-weight: bold; margin-top: 0;">More than 200 records found!</p>
+    <p style="font-size: 0.9em;">TNREGINET requires your details so they can generate the massive PDF in the background and email it to you.</p>
+    <label>Name
+      <input type="text" id="reqName" required>
+    </label>
+    <label style="margin-top: 10px; display: block;">Email Address
+      <input type="email" id="reqEmail" required>
+    </label>
+    <button type="button" id="submitEmailBtn" style="margin-top: 15px; width: 100%;">Submit Details</button>
+  </div>
+
+  <div id="result-section" class="hidden">
+    <h2>EC Generated</h2>
+    <a id="download-link" href="#" target="_blank">Download Encumbrance Certificate (PDF)</a>
+  </div>
+</div>
+
+<script src="static/ec_data.js"></script>
+<script src="static/app.js"></script>
+</body>
+</html>

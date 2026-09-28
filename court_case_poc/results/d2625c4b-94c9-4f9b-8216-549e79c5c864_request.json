@@ -1,0 +1,14 @@
+{
+  "search_id": "d2625c4b-94c9-4f9b-8216-549e79c5c864",
+  "received_at": "2026-09-09 02:17:01.999772",
+  "request": {
+    "search_source": "ECOURTS",
+    "search_type": "COURT_DETAILS",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "court_complex": "City Civil Court Complex, Chennai",
+    "case_type": "O.S. (Original Suit)",
+    "case_number": "1",
+    "registration_year": "2023"
+  }
+}

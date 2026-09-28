@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "search_id": "e5e3b822-80d9-4219-aa43-3abab895371d",
+  "status": "FAILED",
+  "message": "Court search workflow failed while inspecting portal state: State 'Tamil Nadu' not found in dropdown. Try a shorter keyword."
+}

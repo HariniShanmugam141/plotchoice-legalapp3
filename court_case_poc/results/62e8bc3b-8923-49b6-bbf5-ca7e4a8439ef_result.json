@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "search_id": "62e8bc3b-8923-49b6-bbf5-ca7e4a8439ef",
+  "status": "FAILED",
+  "message": "Court search workflow failed while inspecting portal state: Locator.click: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(\"a:has-text('Case Status')\").first\n    2 × waiting for \"https://services.ecourts.gov.in/ecourtindia_v6/\" navigation to finish...\n      - navigated to \"https://services.ecourts.gov.in/ecourtindia_v6/\"\n"
+}

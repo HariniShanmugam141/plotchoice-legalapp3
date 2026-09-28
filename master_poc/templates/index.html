@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Processing System</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="wrap">
+    <h1>Document Processing</h1>
+
+    <!-- ══════════════════════════════════════════════════
+         STEP 1 — SELECT SERVICES
+    ══════════════════════════════════════════════════ -->
+    <div class="card" id="step1-section">
+        <h2>Step 1 — Select Services</h2>
+        <div class="tasks-heading">Which reports do you need?</div>
+        <div class="task-row" id="service-checkboxes">
+            <label><input type="checkbox" name="services" value="ec"    id="chk-ec">    EC</label>
+            <label><input type="checkbox" name="services" value="patta" id="chk-patta"> Patta</label>
+            <label><input type="checkbox" name="services" value="tslr"  id="chk-tslr">  Urban TSLR</label>
+            <label><input type="checkbox" name="services" value="court" id="chk-court"> Court Case</label>
+        </div>
+        <button type="button" id="nextToFieldsBtn" style="margin-top:28px;">Next →</button>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════
+         STEP 2 — MODE SELECTION & DATA ENTRY
+    ══════════════════════════════════════════════════ -->
+    <div class="card hidden" id="step2-section">
+        <h2>Step 2 — Enter Details</h2>
+
+        <!-- ── TWO OPTIONS ── -->
+        <div class="mode-toggle-row">
+            <button type="button" class="mode-btn active" id="btnModeUpload">
+                📄 Upload Sale Deed
+            </button>
+            <button type="button" class="mode-btn" id="btnModeManual">
+                ✏️ Enter Manually
+            </button>
+        </div>
+
+        <!-- ── UPLOAD PANEL ── -->
+        <div id="upload-panel">
+            <div class="upload-file-row">
+                <label style="font-size:16px; font-weight:700; color:#222; margin-bottom:8px; display:block;">
+                    Select Sale Deed (PDF)
+                </label>
+                <input type="file" id="deedFile" accept="application/pdf">
+                <p id="extractStatus" style="font-size:14px; color:#888; margin:8px 0 0;">
+                    Fields will be extracted automatically when you click Process.
+                </p>
+            </div>
+            <button type="button" id="processUploadBtn" style="margin-top:24px;">Process Auto-Extraction</button>
+        </div>
+
+        <div id="wizard-panel" class="hidden">
+            <h3 id="wizard-title" style="margin-top:10px; color:#1e88e5;">Verify Details</h3>
+            <p id="wizard-desc" style="color:#555; font-size:15px; margin:8px 0 16px;">
+                Please verify or fill in the details for the current service.
+            </p>
+
+        <form id="details-form">
+
+            <!-- ── COMMON PROPERTY FIELDS ── -->
+            <div id="grp-zone" class="field-group hidden">
+                <label style="font-weight: bold; color: #333;">Zone <span class="req">*</span> <span class="hint">(EC only)</span></label>
+                <div class="select-wrap">
+                    <select id="f-zone">
+                        <option value="">— Select Zone —</option>
+                    </select>
+                    <span class="sel-loading hidden" id="load-zone">Loading…</span>
+                </div>
+            </div>
+            
+            <div id="grp-district" class="field-group hidden">
+                <label style="font-weight: bold; color: #333;">District <span class="req">*</span></label>
+                <div class="select-wrap">
+                    <select id="f-district">
+                        <option value="">— Select District —</option>
+                    </select>
+                    <span class="sel-loading hidden" id="load-district">Loading…</span>
+                </div>
+            </div>
+            <div id="grp-taluk" class="field-group hidden">
+                <label>Taluk <span class="req">*</span></label>
+                <div class="select-wrap">
+                    <select id="f-taluk" disabled>
+                        <option value="">— Select District first —</option>
+                    </select>
+                    <span class="sel-loading hidden" id="load-taluk">Loading…</span>
+                </div>
+            </div>
+            <div id="grp-sro" class="field-group hidden">
+                <label>SRO (Sub-Registrar Office) <span class="req">*</span> <span class="hint">(EC only)</span></label>
+                <div class="select-wrap">
+                    <select id="f-sro" disabled>
+                        <option value="">— Select District first —</option>
+                    </select>
+                    <span class="sel-loading hidden" id="load-sro">Loading…</span>
+                </div>
+            </div>
+            <div id="grp-village" class="field-group hidden">
+                <label>Village / Town <span class="req">*</span></label>
+                <div class="select-wrap">
+                    <select id="f-village" disabled>
+                        <option value="">— Select Taluk first —</option>
+                    </select>
+                    <span class="sel-loading hidden" id="load-village">Loading…</span>
+                </div>
+            </div>
+            <div id="grp-ward" class="field-group hidden">
+                <label>Ward No <span class="hint">(Urban TSLR)</span></label>
+                <input type="text" id="f-ward" placeholder="e.g. Ward E, 5">
+            </div>
+            <div id="grp-block" class="field-group hidden">
+                <label>Block Code <span class="hint">(Urban TSLR)</span></label>
+                <input type="text" id="f-block" placeholder="e.g. 84">
+            </div>
+            <div id="grp-survey" class="field-group hidden">
+                <label>Survey No <span class="req">*</span></label>
+                <input type="text" id="f-survey" placeholder="e.g. 123">
+            </div>
+            <div id="grp-subdiv" class="field-group hidden">
+                <label>Sub Division No</label>
+                <input type="text" id="f-subdiv" placeholder="e.g. 2  (leave blank if none)">
+            </div>
+
+            <!-- ── COURT FIELDS ── -->
+            <div id="grp-party" class="field-group hidden">
+                <label>Party Name <span class="hint">(Court Case)</span></label>
+                <input type="text" id="f-party" placeholder="e.g. Rajan Kumar">
+            </div>
+            <div id="grp-cnr" class="field-group hidden">
+                <label>CNR Number <span class="hint">(Court Case — alternative to Party Name)</span></label>
+                <input type="text" id="f-cnr" placeholder="e.g. TNCH010012345678">
+            </div>
+
+            <!-- ── CONTACT ── -->
+            <div id="grp-mobile" class="field-group hidden">
+                <label>Mobile Number <span class="req">*</span> <span class="hint">(for OTP — Patta / TSLR)</span></label>
+                <input type="text" id="f-mobile" placeholder="10-digit mobile number" maxlength="10">
+            </div>
+
+            <div style="margin-top:28px; display:flex; gap:14px;">
+                <button type="button" id="backToStep1Btn" style="background:#777;">← Back</button>
+                <button type="submit" id="processBtn">Process</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════
+         LIVE PROCESSING
+    ══════════════════════════════════════════════════ -->
+    <div class="card hidden" id="action-section">
+        <h2>Processing: <span id="current-task-name">Initializing...</span></h2>
+        <p id="live-status">Starting...</p>
+
+        <div id="interaction-block" class="hidden">
+            <p id="interaction-msg"></p>
+            <img id="captcha-img" class="hidden" style="margin-bottom:12px; border:1px solid #ccc; border-radius:4px; max-width:100%;">
+            <div style="margin-bottom:12px;">
+                <label id="label-input-1" class="hidden" style="font-size:15px; margin-bottom:4px;">Start Date:</label>
+                <input type="text" id="interaction-input" placeholder="...">
+            </div>
+            <div id="input-2-container" class="hidden" style="margin-bottom:12px;">
+                <label id="label-input-2" style="font-size:15px; margin-bottom:4px;">End Date:</label>
+                <input type="text" id="interaction-input-2" placeholder="...">
+            </div>
+            <button id="submitInteractionBtn" style="margin-top:8px;">Submit</button>
+        </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════
+         RESULTS
+    ══════════════════════════════════════════════════ -->
+    <div class="card hidden" id="results-section">
+        <h2>Generated Documents</h2>
+        <div id="downloads-list" style="margin-top:18px;"></div>
+    </div>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

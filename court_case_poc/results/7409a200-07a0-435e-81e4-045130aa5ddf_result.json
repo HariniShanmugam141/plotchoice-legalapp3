@@ -1,0 +1,6 @@
+{
+  "search_id": "7409a200-07a0-435e-81e4-045130aa5ddf",
+  "provider": "eCourts Services",
+  "status": "MANUAL_CONFIGURATION_REQUIRED",
+  "message": "CAPTCHA was submitted, but result selectors are not yet configured, so results cannot be reliably parsed. Check the saved screenshot: screenshots/court_results_7409a200-07a0-435e-81e4-045130aa5ddf.png"
+}

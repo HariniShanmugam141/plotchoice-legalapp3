@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "search_id": "fea12e5f-ebc3-44f9-bafa-536d4216194d",
+  "status": "FAILED",
+  "message": "Court search workflow failed while inspecting portal state: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a:has-text('Case Status')\").first\n"
+}

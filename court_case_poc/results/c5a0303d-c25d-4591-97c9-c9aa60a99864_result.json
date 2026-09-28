@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "search_id": "c5a0303d-c25d-4591-97c9-c9aa60a99864",
+  "status": "FAILED",
+  "message": "Court search workflow failed while inspecting portal state: Locator.click: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(\"a:has-text('Case Status')\").first\n"
+}

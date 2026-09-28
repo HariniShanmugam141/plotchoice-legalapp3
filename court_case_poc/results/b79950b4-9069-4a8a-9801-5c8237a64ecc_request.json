@@ -1,0 +1,14 @@
+{
+  "search_id": "b79950b4-9069-4a8a-9801-5c8237a64ecc",
+  "received_at": "2026-09-17 19:46:15.861069",
+  "request": {
+    "search_source": "ECOURTS",
+    "search_type": "PARTY_NAME",
+    "party_name": "",
+    "state": "",
+    "district": "",
+    "court_complex": "",
+    "registration_year": "",
+    "case_status": "BOTH"
+  }
+}

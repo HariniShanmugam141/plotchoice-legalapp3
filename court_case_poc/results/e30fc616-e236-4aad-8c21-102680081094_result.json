@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "search_id": "e30fc616-e236-4aad-8c21-102680081094",
+  "provider": "eCourts Services",
+  "status": "MANUAL_CONFIGURATION_REQUIRED",
+  "message": "Official eCourts portal opened successfully (page title: 'Home - eCourt India Services', url: https://services.ecourts.gov.in/ecourtindia_v6/), but the selectors required for the 'PARTY_NAME' search flow have not been verified via Playwright Codegen yet. Update ECOURTS_SELECTORS in app.py before this search type can be automated end-to-end.",
+  "next_action": "CONFIGURE_ECOURTS_SELECTORS",
+  "screenshot": "screenshots/court_initial_e30fc616-e236-4aad-8c21-102680081094.png"
+}

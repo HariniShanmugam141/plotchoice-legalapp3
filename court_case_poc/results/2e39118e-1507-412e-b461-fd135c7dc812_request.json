@@ -1,0 +1,14 @@
+{
+  "search_id": "2e39118e-1507-412e-b461-fd135c7dc812",
+  "received_at": "2026-09-08 22:10:52.026558",
+  "request": {
+    "search_source": "ECOURTS",
+    "search_type": "PARTY_NAME",
+    "party_name": "Ramesh Kumar",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "court_complex": "Chennai City Civil Court",
+    "registration_year": "2023",
+    "case_status": "BOTH"
+  }
+}

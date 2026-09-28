@@ -1,0 +1,14 @@
+{
+  "search_id": "9a4b0b51-ed9b-45d3-9235-a189fef4f0c2",
+  "received_at": "2026-09-21 22:37:40.691267",
+  "request": {
+    "search_source": "ECOURTS",
+    "search_type": "PARTY_NAME",
+    "party_name": "Naagesh",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "court_complex": "Singaravelar",
+    "registration_year": "2020",
+    "case_status": "BOTH"
+  }
+}
